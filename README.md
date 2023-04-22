@@ -17,8 +17,8 @@ Chat bridge for guilded and discord.
 ![image](https://user-images.githubusercontent.com/104375741/233508939-bab47906-5224-451f-be69-16c599d55fb5.png)
 7. Goto where you cloned the bot into. (Downloaded the code)
 8. Find the .envtemplate file.
-9. Rename it to .env
-10. Open the file, and modify the values as such.
+9. Rename it to .env![image](https://user-images.githubusercontent.com/104375741/233756054-5ec2d890-7113-4eef-bfbe-e43e6b4d44c0.png)
+10. Open the file, and modify the values as such. (GUILDED_IMAGE and DISCORD_IMAGE are optional.)
 ### Running it
 1. Install Python 3.9.13 (IMPORTANT) from https://www.python.org/downloads/windows/.
 2. Open Command Prompt (normal user)
