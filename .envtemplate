@@ -1,8 +1,8 @@
-DISCORD_TOKEN=
-DISCORD_WEBHOOK=
-DISCORD_CHANNEL_ID=
-DISCORD_STATUS=
-GUILDED_TOKEN=
-GUILDED_WEBHOOK=
-IMAGE_ON_GUILDED=
-IMAGE_ON_DISCORD=
+DISCORD_TOKEN=<your bot token for discord here>
+DISCORD_WEBHOOK=<your webhook for the discord channel here>
+DISCORD_CHANNEL_ID=<the channel id you want it to look for and send messages to>
+DISCORD_STATUS=<what "game" the bot is playing>
+GUILDED_TOKEN=your bot token for guilded here>
+GUILDED_WEBHOOK=<your webhook for the guilded channel here>
+IMAGE_ON_GUILDED=<the image you want the bot to show on the guilded channel>
+IMAGE_ON_DISCORD=<the image you want the bot to show on the discord channel>
